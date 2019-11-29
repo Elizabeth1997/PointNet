@@ -1,0 +1,85 @@
+nohup: ignoring input
+[I 21:07:00.719 NotebookApp] JupyterLab extension loaded from /home/xiongc/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 21:07:00.719 NotebookApp] JupyterLab application directory is /home/xiongc/anaconda3/share/jupyter/lab
+[I 21:07:00.724 NotebookApp] Serving notebooks from local directory: /ibex/scratch/xiongc/project_point_cloud
+[I 21:07:00.724 NotebookApp] The Jupyter Notebook is running at:
+[I 21:07:00.724 NotebookApp] http://localhost:8889/
+[I 21:07:00.724 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 21:07:01.806 NotebookApp] 404 GET /api/kernels/bd889b7f-d895-4822-9306-4799d7d0772a/channels?session_id=165bf150de484b52af6de12b07953a82 (::1): Kernel does not exist: bd889b7f-d895-4822-9306-4799d7d0772a
+[W 21:07:01.912 NotebookApp] 404 GET /api/kernels/bd889b7f-d895-4822-9306-4799d7d0772a/channels?session_id=165bf150de484b52af6de12b07953a82 (::1) 119.98ms referer=None
+[W 21:07:04.947 NotebookApp] Replacing stale connection: bd889b7f-d895-4822-9306-4799d7d0772a:165bf150de484b52af6de12b07953a82
+[I 08:37:12.489 NotebookApp] 302 GET / (::1) 1.15ms
+[I 08:38:13.780 NotebookApp] Kernel started: af4860fd-98d0-41b1-b31d-4cacb2f16060
+[I 08:38:13.792 NotebookApp] 302 GET /notebooks/img/pointnet.jpg (::1) 7.23ms
+[I 08:38:13.795 NotebookApp] 302 GET /notebooks/img/iou.png (::1) 8.93ms
+[I 08:38:13.798 NotebookApp] 302 GET /notebooks/img/cls_sem.jpg (::1) 10.86ms
+[W 08:38:16.194 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (::1) 5.16ms referer=http://localhost:8882/notebooks/Project%20Point%20Cloud%20Processing.ipynb
+[W 08:38:16.196 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 6.02ms referer=http://localhost:8882/notebooks/Project%20Point%20Cloud%20Processing.ipynb
+[I 08:40:13.753 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 08:42:13.774 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 08:44:13.746 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 08:46:13.750 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 08:54:13.764 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 08:58:13.756 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:00:13.761 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:02:13.767 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:09:45.360 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:24:04.785 NotebookApp] 302 GET /notebooks/img/cls_sem.jpg (::1) 4.89ms
+[I 09:24:04.788 NotebookApp] 302 GET /notebooks/img/pointnet.jpg (::1) 6.96ms
+[I 09:24:04.791 NotebookApp] 302 GET /notebooks/img/iou.png (::1) 2.85ms
+[W 09:24:07.177 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 5.48ms referer=http://localhost:8882/notebooks/Project%20Point%20Cloud%20Processing.ipynb
+[W 09:24:07.180 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (::1) 6.71ms referer=http://localhost:8882/notebooks/Project%20Point%20Cloud%20Processing.ipynb
+[I 09:24:13.809 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:26:13.922 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:28:13.793 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:30:13.799 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:32:13.787 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:34:13.801 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:36:13.805 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:40:13.807 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:42:13.809 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:44:13.808 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:46:13.804 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:48:13.816 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:50:13.821 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:52:13.814 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:54:13.817 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 09:56:13.821 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:06:13.858 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:08:16.454 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:10:13.898 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:12:17.718 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:14:13.864 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:16:15.349 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:20:13.863 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:22:14.968 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:24:15.518 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:25:48.394 NotebookApp] Kernel interrupted: af4860fd-98d0-41b1-b31d-4cacb2f16060
+[I 10:26:14.342 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:27:00.390 NotebookApp] Starting buffering for af4860fd-98d0-41b1-b31d-4cacb2f16060:ed27df74b38f488489c6ff44c4b5e842
+[I 10:27:01.611 NotebookApp] Kernel restarted: af4860fd-98d0-41b1-b31d-4cacb2f16060
+[I 10:27:04.123 NotebookApp] Restoring connection for af4860fd-98d0-41b1-b31d-4cacb2f16060:ed27df74b38f488489c6ff44c4b5e842
+[I 10:27:04.123 NotebookApp] Replaying 6 buffered messages
+[I 10:28:13.857 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:28:58.122 NotebookApp] Kernel interrupted: af4860fd-98d0-41b1-b31d-4cacb2f16060
+[I 10:29:24.665 NotebookApp] Starting buffering for af4860fd-98d0-41b1-b31d-4cacb2f16060:ed27df74b38f488489c6ff44c4b5e842
+[I 10:29:25.685 NotebookApp] Kernel restarted: af4860fd-98d0-41b1-b31d-4cacb2f16060
+[I 10:29:27.630 NotebookApp] Restoring connection for af4860fd-98d0-41b1-b31d-4cacb2f16060:ed27df74b38f488489c6ff44c4b5e842
+[I 10:29:27.630 NotebookApp] Replaying 6 buffered messages
+[I 10:30:13.851 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:32:13.873 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:34:13.864 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:36:14.403 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:38:14.316 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:40:13.872 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:42:13.876 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:44:14.351 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:46:14.326 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:48:14.342 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:50:13.893 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 10:52:13.894 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 11:04:13.914 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[I 11:04:50.146 NotebookApp] Saving file at /Project Point Cloud Processing.ipynb
+[C 11:04:58.336 NotebookApp] received signal 15, stopping
+[I 11:04:58.341 NotebookApp] Shutting down 1 kernel
+[I 11:04:59.245 NotebookApp] Kernel shutdown: af4860fd-98d0-41b1-b31d-4cacb2f16060
